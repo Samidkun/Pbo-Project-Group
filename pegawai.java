@@ -1,5 +1,5 @@
 public class Pegawai {
-    public String nip;
+    public String nip; //define variable
     public String nama;
 
     // Default constructor
